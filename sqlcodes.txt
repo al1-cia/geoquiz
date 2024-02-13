@@ -1,0 +1,10 @@
+create table user_details(
+    user_id varchar(25) NOT NULL primary key,
+    email varchar(25),
+    password varchar(25));
+
+create table leaderboard(
+    userr_id varchar(25) NOT NULL,
+    score int,
+	foreign key (userr_id) references user_details(user_id)
+);
