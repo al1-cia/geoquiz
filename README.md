@@ -6,18 +6,18 @@ Find below the Snapshots of both our website and the database on XAMPP.
 <br><br>
 # WEBSITE SNAPSHOTS:
 Our website contains the following webpages: 
-<br>1. Main Page:<br>![MainPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Main%20Page.png)
-<br>2. Sign in Page:<br>![SignIn](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Sign%20in%20page.png)
-<br>3. Login Page:<br>![Login](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Login%20page.png)
-<br>4. Invalid Login Page:<br>![InvalidLogin](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Invalid%20Login.png)
-<br>5. Menu Page:<br>![MenuPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Menu%20Page.png)
-<br>6. Quiz Page:<br>![QuizPage1](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Quiz%20Snapshot1.png)![QuizPage2](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Quiz%20Snapshot2.png)![QuizPage3](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Quiz%20Snapshot3.png)
-<br>7. Leaderboard Page:<br>![LeaderboardPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Leaderboard.png)
+<br>1. Main Page:<br><br>![MainPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Main%20Page.png)
+<br>2. Sign Up Page:<br><br>![SignIn](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Sign%20in%20page.png)
+<br>3. Login Page:<br><br>![Login](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Login%20page.png)
+<br>4. Invalid Login Page:<br><br>![InvalidLogin](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Invalid%20Login.png)
+<br>5. Menu Page:<br><br>![MenuPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Menu%20Page.png)
+<br>6. Quiz Page:<br><br>![QuizPage1](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Quiz%20Snapshot1.png)![QuizPage2](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Quiz%20Snapshot2.png)![QuizPage3](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Quiz%20Snapshot3.png)
+<br>7. Leaderboard Page:<br><br>![LeaderboardPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Leaderboard.png)
 <br>8. Delete Account (from “Delete Account” in Menu) Page:<br>![DeleteAccPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Delete%20Account%20(from%20%E2%80%9CDelete%20Account%E2%80%9D%20in%20Menu).png)
-<br>9. Logout Page (from “Logout” in Menu) <br>![LogoutPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Logout%20(from%20%E2%80%9CLogout%E2%80%9D%20in%20Menu).png)
+<br>9. Logout Page (from “Logout” in Menu) <br><br>![LogoutPage](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Geoquiz%20website/Logout%20(from%20%E2%80%9CLogout%E2%80%9D%20in%20Menu).png)
+<br><br>
+# DATABASE SNAPSHOTS:
+<br>1. quiz_db Database:<br><br>![quiz_db](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Database%20in%20XAMPP/Database%20name%20-quiz_db.png)
+<br>2. user_details Table:<br><br>![user_details](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Database%20in%20XAMPP/Table1-%20user_details.png)
+<br>3. leaderboard Table:<br><br>![leaderboard](https://github.com/norac1243/geoquiz_UPDT_snaps_readme/blob/master/Snapshots%20-%20Database%20in%20XAMPP/Table2%20-%20leaderboard.png)
 
-
-
-
-
-DATABASE SNAPSHOTS:
